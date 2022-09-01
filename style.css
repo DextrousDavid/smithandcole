@@ -332,7 +332,7 @@ img {
   background-position: center center;
   background-size: cover; }
   .bg-overlay::after {
-    background-color: rgba(0, 0, 0, 0.43);
+    background-color: rgba(0, 0, 0, 0.53);
     position: absolute;
     z-index: -1;
     top: 0;
@@ -412,7 +412,7 @@ img {
   .header-area .palatin-main-menu {
     position: relative;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.43);
+    background-color: rgba(0, 0, 0, 0.53);
     border-bottom: 2px solid #e2643a; }
     .header-area .palatin-main-menu .classy-nav-container {
       background-color: transparent; }
@@ -582,7 +582,7 @@ img {
   .single-hero-slide .hero-slides-content {
     display: inline-block;
     padding: 60px 50px;
-    background-color: rgba(0, 0, 0, 0.43);
+    background-color: rgba(0, 0, 0, 0.53);
     border: 2px solid #e2643a;
     text-align: center; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -840,7 +840,7 @@ img {
   width: 100%;
   padding: 70px 50px;
   border: 2px solid #e2643a;
-  background-color: rgba(0, 0, 0, 0.43); }
+  background-color: rgba(0, 0, 0, 0.53); }
   @media only screen and (max-width: 767px) {
     .pool-content {
       padding: 50px 20px; } }
@@ -897,7 +897,7 @@ img {
   .single-rooms-area .rooms-text {
     position: absolute;
     z-index: 30;
-    background-color: rgba(0, 0, 0, 0.43);
+    background-color: rgba(0, 0, 0, 0.53);
     padding: 30px 30px 40px;
     left: 20px;
     right: 20px;
@@ -1043,7 +1043,7 @@ img {
   position: relative;
   z-index: 1; }
   .our-milestones .single-cool-fact {
-    background-color: rgba(0, 0, 0, 0.43); }
+    background-color: rgba(0, 0, 0, 0.53); }
 
 /* :: 11.0 Our Hotel Area CSS */
 .single-hotel-info {
@@ -1184,7 +1184,7 @@ img {
       margin-bottom: 0;
       padding: 5px 30px;
       border: 2px solid #e2643a;
-      background-color: rgba(0, 0, 0, 0.43); }
+      background-color: rgba(0, 0, 0, 0.53); }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .breadcumb-area .bradcumbContent h2 {
           font-size: 36px; } }
